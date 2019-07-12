@@ -5,6 +5,7 @@
     <Authors>alanhuang0920</Authors>
     <Company />
     <Description>Test使用個推，單純分享，無利益考量</Description>
+    <PackageProjectUrl>https://github.com/Alan-Lun/GetuiServerApiSDK_Core</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
