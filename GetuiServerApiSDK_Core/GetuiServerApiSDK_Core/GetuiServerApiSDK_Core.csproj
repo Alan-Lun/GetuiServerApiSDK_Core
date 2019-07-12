@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>alanhuang0920</Authors>
+    <Company />
+    <Description>Test使用個推</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bosima.Google.ProtocolBuffers" Version="1.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+  </ItemGroup>
+
+</Project>
